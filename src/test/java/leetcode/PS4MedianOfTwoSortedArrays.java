@@ -27,7 +27,7 @@ public class PS4MedianOfTwoSortedArrays {
     }
 
     @Test
-    public void addTwoNumbers() {
+    public void test() {
         Solution solution = new Solution();
 
         assertThat(solution.findMedianSortedArrays(new int[]{1,3}, new int[]{2})).isEqualTo(2.0);
