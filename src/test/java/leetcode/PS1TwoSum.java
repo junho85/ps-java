@@ -51,7 +51,6 @@ public class PS1TwoSum {
         public int[] twoSum_slow(int[] nums, int target) {
             int[] result = new int[2];
 
-            String a = "{\"for_gcm\":{\"collapse\":\"new_mail_%s_%ld\",\"delay_while_idle\":false,\"push_token\":\"%s\",\"return_url\":\"%s\",\"custom_field\":{\"message\":{\"token\":\"%s\",\"data\":{\"type\":\"MAIL\",\"userid\":\"%s\",\"folderName\":\"%s\",\"messageId\":\"%ld\",\"subject\":\"%s\",\"address\":\"%s\",\"messageDate\":\"%ld\",\"sync\":\"%s\"}}}}}";
             List<Integer> listNums = new ArrayList<>();
 
             for (int num : nums) {
