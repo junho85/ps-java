@@ -1,4 +1,4 @@
-package programmers;
+package programmers.centercharacter;
 
 public class CenterCharacter {
     public static void main(String[] args) {
